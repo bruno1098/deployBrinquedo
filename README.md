@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/656ac969-4bd4-491e-a339-3a353aaebbfc)![image](https://github.com/user-attachments/assets/53074169-718d-4922-b64b-7c7424f7e6aa)
-# API de Brinquedos
+!# API de Brinquedos
 
 Este projeto é uma API RESTful para gerenciar uma coleção de brinquedos, permitindo operações completas de CRUD (Create, Read, Update, Delete). A API é desenvolvida utilizando Spring Boot e segue princípios RESTful, utilizando HATEOAS para facilitar a navegação entre recursos.
 
@@ -18,7 +17,8 @@ A API de Brinquedos oferece serviços para manipulação de dados de brinquedos.
 
 ## Configuração do Spring Initializr
 
-Esta é a configuração utilizada no [Spring Initializr](https://github.com/bruno1098/deployBrinquedo/blob/main/images/Imagem%2009-08-2024%20a%CC%80s%2018.33.jpeg?raw=true) 
+Esta é a configuração utilizada no [Spring Initializr](https://github.com/user-attachments/assets/656ac969-4bd4-491e-a339-3a353aaebbfc)![image](https://github.com/user-attachments/assets/53074169-718d-4922-b64b-7c7424f7e6aa)
+
 
 - Projeto: Maven
 - Linguagem: Java
