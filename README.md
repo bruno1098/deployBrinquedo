@@ -1,4 +1,4 @@
-!# API de Brinquedos
+# API de Brinquedos
 
 Este projeto é uma API RESTful para gerenciar uma coleção de brinquedos, permitindo operações completas de CRUD (Create, Read, Update, Delete). A API é desenvolvida utilizando Spring Boot e segue princípios RESTful, utilizando HATEOAS para facilitar a navegação entre recursos.
 
@@ -13,7 +13,7 @@ Este projeto é uma API RESTful para gerenciar uma coleção de brinquedos, perm
 
 ## Visão Geral
 
-A API de Brinquedos oferece serviços para manipulação de dados de brinquedos. Os clientes podem criar, ler, atualizar, deletar e verificar a existência de registros de brinquedos. Esta API é ideal para ser usada como backend para aplicações de lojas de brinquedos ou qualquer sistema que necessite gerenciar um inventário de brinquedos.
+A API de Brinquedos oferece serviços para manipulação de dados de brinquedos. Os clientes podem criar, ler, atualizar, deletar e verificar a existência de registros de brinquedos.
 
 ## Configuração do Spring Initializr
 
@@ -34,8 +34,6 @@ Esta é a configuração utilizada no [Spring Initializr](https://github.com/use
   - Lombok
   - Spring HATEOAS
   - Oracle Driver
-
-![Configuração do Spring Initializr](images/spring-initializr-config.png)
 
 ## CRUD de Brinquedos
 
@@ -117,7 +115,7 @@ Esta é a configuração utilizada no [Spring Initializr](https://github.com/use
         }
       ]
     }
-    // outros brinquedos...
+ 
   ]
   ```
 
@@ -374,5 +372,5 @@ brinquedos-api/
    mvn spring-boot:run
    ```
 
-A API estará disponível em `http://localhost:8080`.
+
 
