@@ -34,6 +34,16 @@ Esta é a configuração utilizada no [Spring Initializr](https://github.com/use
   - Lombok
   - Spring HATEOAS
   - Oracle Driver
+ 
+    ## 📂 **Integrantes do Projeto**
+
+
+```plaintext
+RM98470 - Bruno Antunes
+RM98633 - Gabriel Henrique Souza
+RM99463 - Gabriel Figueiredo
+RM550231 - Pedro Ferrari
+```
 
 ## CRUD de Brinquedos
 
